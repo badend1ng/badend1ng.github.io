@@ -4,3 +4,11 @@ body{
     background-size: 100%;
     background-position: center;
 }
+
+div{
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid white;
+    margin: 0;
+}
