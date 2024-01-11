@@ -4,5 +4,7 @@ a{
 }
 body{
     background-image: url(/assets/sb.jpg);
-    opacity: 0.32;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
