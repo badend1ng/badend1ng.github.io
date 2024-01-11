@@ -1,5 +1,5 @@
 body{
-    background-image: url(/assets/bg.gif);
+    background-image: url(/assets/bg.gif); opacity: 0.3;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
