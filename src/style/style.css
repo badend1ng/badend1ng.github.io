@@ -6,7 +6,7 @@ body{
     background-position: center;
 }
 
-div{
+.main{
     width: 320px;
     height: 50px;
     padding: 10px;
